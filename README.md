@@ -3,18 +3,18 @@
 Bu python projesi önceden belirlenen sınavlar ve Çakışma matrixini inceleyerek optimal bir sınav programı hazırlar.
 
 ## Özellikler
-- Çakışmasız sınav programı hazırlama
-- Dinamik zaman slotları oluşturma
+- Çakışmasız sınav programı hazırlama.
+- Dinamik zaman slotları oluşturma.
 - Bir gün için aynı prefixten 3den fazla sınav yerleştirlmemesi.
-- Outputları Excel dosyası olarak oluşturma
+- Outputları Excel dosyası olarak oluşturma.
 
 ## Yükleme
-1. repository'yi clonlayın
-2. gerekli paketleri yükleyin(pandas,openpyxl)
+1. Kod doyasını yükleyin.
+2. Gerekli paketleri yükleyin(pandas,openpyxl)
 3. Excel dosyalarını bilgisayarınıza yükleyin
 4. Programı çalıştırın
 
-# Kullanım 
+## Kullanım 
 - Excel dosyalarını bilgisayarınıza indirin
 - Predefined exam excel dosyasının yolunu (predefined_schedule_path = r'C:\...\Dekanlık Sınav programı (1).xlsx') şeklinde 5.line da tanımlayın.(pathin yazılım şekli aynı olmalı)
 - Çakışma matrixinin yolunu (conflict_matrix_path = r'C:\....\Kitle Sınavları - Çakışma Matrisi Güz 2023.xlsx') formatında 38.line a yazın.
