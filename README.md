@@ -23,5 +23,5 @@ Bu python projesi önceden belirlenen sınavlar ve Çakışma matrixini inceleye
 - Visual Stuido Code uygulamasında çalıştırmanız tavsiye edilir.
 - Programı çalıştırmadan önce kullanılacak Excel dosyalarının kapalı olduğundan emin olun.
 Kodu çalıştırın ve oluşturulan excel dosyalarından verileri inceleyin.
-!!!NOT!!!: DOSYALARIN PATH'i BELİRTİLEN ŞEKİLDE TANIMLANMALI!!!!!
+!!!NOT!!!: DOSYALARIN PATH'i BELİRTİLEN ŞEKİLDE TANIMLANMALI("\" sembolünün kullanıldığından emin olun)!!!!!
 
